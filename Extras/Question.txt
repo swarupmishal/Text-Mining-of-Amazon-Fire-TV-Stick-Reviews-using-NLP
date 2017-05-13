@@ -1,0 +1,13 @@
+Final Projects
+1) Scrape at least 5000 reviews/blogs from the web using R and then apply the sentiment analysis technique
+that you have already learnt using a downloaded positive/negative lexicon. Stem both lexicon and reviews using openNLP. 
+There are many R scraping tools such as rvest. Prepare a labeled dataset.
+
+2) Run SVM, DBN, and CNN in R on the labeled review dataset for sentiment classification using deepNet/Darch and MXNet. 
+Your input corresponding to a review is its sparse representation.
+
+
+
+
+The structure of the presentation should be like last time - Identification and significance of the problem you are trying to solve,
+sources of data, approach to modeling, implementation, experimental results, and conclusion and future directions.
