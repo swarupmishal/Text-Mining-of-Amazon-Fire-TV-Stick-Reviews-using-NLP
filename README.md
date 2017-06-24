@@ -10,7 +10,7 @@ I have downloaded customer reviews for the Product Fire TV Stick with Alexa Voic
 The code will automatically download 5000 Amazon reviews for our product.
 
 
-# Implementation.
+## Implementation.
 ### Sentiment Analysis
 We analyzed the customer reviews for that Product and process it as below :
 1. Downloaded reviews for a product
@@ -35,5 +35,5 @@ Data was divided in 85% Train dataset and 15% Test dataset.
 3. Deep Belief Networks Classification was performed with an accuracy of 96.97%
 
 
-# Conclusion:
+## Conclusion:
 So we can conclude that Deep Belief Network has the best prediction amongst all.
