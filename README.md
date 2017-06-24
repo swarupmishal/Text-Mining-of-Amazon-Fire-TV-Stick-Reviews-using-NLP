@@ -1,4 +1,4 @@
-# Text-Analysis-and-Deep-Learning-of-Amazon-Reviews
+# Text Analysis and Deep Learning of Amazon Reviews
 
 ![alt text](https://github.com/swarupmishal/Text-Mining-of-Amazon-Reviews/blob/master/Extras/data-mining-859x312.jpg)
 
