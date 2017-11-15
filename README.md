@@ -7,7 +7,7 @@ I have downloaded customer reviews for Fire TV Stick with Alexa Voice Remote fro
 
 
 ## How can one obtain the Data?
-The code will automatically download 5000 Amazon reviews for Fire TV Stick with Alexa Voice Remote.
+The code will automatically download 50000 Amazon reviews for Fire TV Stick with Alexa Voice Remote.
 
 
 ## Implementation.
