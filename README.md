@@ -1,9 +1,9 @@
-# Text Analysis and Deep Learning of Amazon Reviews
+# Text Mining and Deep Learning of Amazon Echo Dot Reviews
 
 ![alt text](https://github.com/swarupmishal/Text-Mining-of-Amazon-Reviews/blob/master/Extras/data-mining-859x312.jpg)
 
 ## What exactly the Data is?
-I have downloaded customer reviews for the Product Fire TV Stick with Alexa Voice Remote from Amazon website.
+I have downloaded customer reviews for Echo Dot from Amazon website.
 
 
 ## How can one obtain the Data?
@@ -26,7 +26,7 @@ We analyzed the customer reviews for that Product and process it as below :
 ![alt text](https://github.com/swarupmishal/Text-Mining-of-Amazon-Reviews/blob/master/Extras/Capture1.PNG)
 
 ###### PreProcessing:
-Removed punctuations,special characters, whitespaces,  graphical emojis(other symbols & unassigned characters). Made the words in lower case. Created corpus from the dataset. Performed Sentiment Analysis and tagged each review as positive, negative or neutral.
+Removed punctuations,special characters, whitespaces,  graphical emojis(other symbols & unassigned characters). Converted words to lower case. Created corpus from the dataset. Performed Sentiment Analysis and tagged each review as positive, negative or neutral.
 
 ### Processing:
 Data was divided in 85% Train dataset and 15% Test dataset.
